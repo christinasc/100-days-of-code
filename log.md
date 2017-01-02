@@ -17,3 +17,9 @@ Cleaned up broken Docker install on computer, attempted to get openAI universe e
 **Link(s) to work**: 
 
 
+### Day 2: January 3, 2016 
+**Today's Progress**: 
+**Thoughts**: 
+**Link(s) to work**: 
+
+
