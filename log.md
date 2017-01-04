@@ -12,8 +12,8 @@ Cleaned up broken Docker install on computer, attempted to get openAI universe e
 
 
 ### Day 1: January 3, 2016 
-**Today's Progress**: 
-**Thoughts**: 
+**Today's Progress**: updated zipcode regex in application.py. not sure why regex examples weren't working. need more testing. 
+**Thoughts**: committed after midnight .
 **Link(s) to work**: 
 
 
