@@ -13,12 +13,12 @@ Cleaned up broken Docker install on computer, attempted to get openAI universe e
 
 ### Day 1: January 3, 2016 
 **Today's Progress**: updated zipcode regex in application.py. not sure why regex examples weren't working. need more testing. 
-**Thoughts**: committed after midnight .
+**Thoughts**: committed after midnight . so result shows in github as Jan 4, not 3
 **Link(s) to work**: 
 
 
-### Day 2: January 3, 2016 
-**Today's Progress**: 
+### Day 2: January 4, 2016 
+**Today's Progress**: forked Chatterbot and flask-chatterbot repos. ran examples. 
 **Thoughts**: 
 **Link(s) to work**: 
 
