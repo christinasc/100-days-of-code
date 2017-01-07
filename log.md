@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 6, 2016 
+**Today's Progress**: refactor main method for fn emails processing. only 10 min to code
+**Thoughts**: 
+**Link(s) to work**: 
+
 ### Day 3: January 5, 2016 
 **Today's Progress**: In GmailLogic: updated regex for matching by zipcode for Fieldnation Emails
 **Thoughts**: need to master regex more. OnForce emails don't have zip in subject, only in the body.
