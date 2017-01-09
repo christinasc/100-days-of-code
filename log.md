@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 8, 2016 
+**Today's Progress**: setup slackbot - example-bot
+
+### Day 5: January 7, 2016 
+**Today's Progress**: history id for fn emails
+
 ### Day 4: January 6, 2016 
+
 **Today's Progress**: refactor main method for fn emails processing. only 10 min to code
 **Thoughts**: 
 **Link(s) to work**: 
