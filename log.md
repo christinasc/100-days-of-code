@@ -1,7 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 10, 2016 
+**Today's Progress**: continue working on configuration for integrating Claudia.js examples with facebook, slack and viber
+
 ### Day 6: January 8, 2016 
-**Today's Progress**: setup slackbot - example-bot
+**Today's Progress**: setup slackbot - example-bot. spent a lot of time trying to get IAM on AWS configured properly to run Claudia.js examples
 
 ### Day 5: January 7, 2016 
 **Today's Progress**: history id for fn emails
