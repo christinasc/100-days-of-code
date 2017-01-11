@@ -1,7 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 11, 2016 
+**Today's Progress**: 
+Successfully deployed a chatbot through Viber. Still working through deployement on Facebook and Slack. They seem
+to be a lot more complicated to deploy because multiple steps are required, including a webpage, a webhook, authorization process, oAuth, etc. 
+
+Cloning the viber bot today and writing detailed setup instructions to avoid pitfalls. Trying additional commands for viberbot to make it more interesting. 
+
+
 ### Day 7: January 10, 2016 
-**Today's Progress**: continue working on configuration for integrating Claudia.js examples with facebook, slack and viber
+**Today's Progress**: 
+continue working on configuration for integrating Claudia.js examples with facebook, slack and viber
 
 ### Day 6: January 8, 2016 
 **Today's Progress**: setup slackbot - example-bot. spent a lot of time trying to get IAM on AWS configured properly to run Claudia.js examples
