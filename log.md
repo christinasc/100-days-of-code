@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 12, 2016 
+**Today's Progress**: Getting tired of updating this log at the command line manually. 
+Plan it to make it update via a slack bot command. Will write python script first as
+standalone and then integrate with slack. Slack integration with Claudia.js seems
+to be needlessly complex.  
+
 ### Day 8: January 11, 2016 
 **Today's Progress**: 
 Successfully deployed a chatbot through Viber. Still working through deployement on Facebook and Slack. They seem
