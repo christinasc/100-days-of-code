@@ -1,7 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 14, 2016 
+**Today's Progress**:
+
+### Day 10: January 13, 2016 
+**Today's Progress**:  get slack delayed command to work. Figure out how to get webhooks to work with slackbot
+
+
 ### Day 9: January 12, 2016 
-**Today's Progress**: Getting tired of updating this log at the command line manually. 
+**Today's Progress**:
+
+Getting tired of updating this log at the command line manually. 
 Plan it to make it update via a slack bot command. Will write python script first as
 standalone and then integrate with slack. Slack integration with Claudia.js seems
 to be needlessly complex.  
