@@ -4,7 +4,7 @@
 **Today's Progress**:
 
 ### Day 10: January 13, 2016 
-**Today's Progress**:  get slack delayed command to work. Figure out how to get webhooks to work with slackbot
+**Today's Progress**:  get slack delayed command to work. Figure out how to get webhooks to work with slackbot . Discovered AWS workshop on serverless chatbots. Forking and working with this integration. hopefuly this will help me figure out how webhooks work as so far they are confusing.
 
 
 ### Day 9: January 12, 2016 
