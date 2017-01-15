@@ -1,10 +1,12 @@
 # 100 Days Of Code - Log
 
 ### Day 11: January 14, 2016 
-**Today's Progress**:
+**Today's Progress**: make mini python script to simplify checking for 100days in to a single line. Make future integration with slack to enable log update via slackbot command in claudia.js
 
 ### Day 10: January 13, 2016 
-**Today's Progress**:  get slack delayed command to work. Figure out how to get webhooks to work with slackbot . Discovered AWS workshop on serverless chatbots. Forking and working with this integration. hopefuly this will help me figure out how webhooks work as so far they are confusing.
+**Today's Progress**:  get slack delayed command to work. Figure out how to get webhooks to work with slackbot.
+Discovered AWS workshop on serverless chatbots. Forking and working with this integration. hopefuly this will help me 
+figure out how webhooks work as so far they are confusing.
 
 
 ### Day 9: January 12, 2016 
@@ -18,9 +20,11 @@ to be needlessly complex.
 ### Day 8: January 11, 2016 
 **Today's Progress**: 
 Successfully deployed a chatbot through Viber. Still working through deployement on Facebook and Slack. They seem
-to be a lot more complicated to deploy because multiple steps are required, including a webpage, a webhook, authorization process, oAuth, etc. 
+to be a lot more complicated to deploy because multiple steps are required, including a webpage, a webhook, authorization 
+process, oAuth, etc. 
 
-Cloning the viber bot today and writing detailed setup instructions to avoid pitfalls. Trying additional commands for viberbot to make it more interesting. 
+Cloning the viber bot today and writing detailed setup instructions to avoid pitfalls. Trying additional commands for viberbot 
+to make it more interesting. 
 
 
 ### Day 7: January 10, 2016 
