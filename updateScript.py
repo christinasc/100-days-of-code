@@ -39,9 +39,9 @@ def main():
     print(linebreak)
 
     ## prompt for entry
-    var = raw_input("Please enter Today's Log Entry: ")
+    var = input("Please enter Today's Log Entry: ")
     print("You Entered: ",  var)
-    confirm = raw_input("CONFIRM: y/n? ")
+    confirm = input("CONFIRM: y/n? ")
     if re.match( r"[Yy]", confirm):
         print("COMMITING to GITHUB")
         progressline = progressline + " "+var
